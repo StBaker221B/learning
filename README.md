@@ -1,2 +1,3 @@
 # learning
- IT learning
+
+On a journey of IT learning.
